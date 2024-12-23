@@ -16,7 +16,7 @@ nav_order: 6
         - Using the ownership matrix given above, the uncorrected integrated value and network values are given to be
         ![alt text](/image-4.png)
         which are disproportionately high considering that the total underlying value of the network is $1+1+1+1+1+1=6$, but e.g. the network value of the 5th firm reaches 55, an order of magnitude larger.
-        - Introducing the correction operator![alt text](image-5.png)
+        - Introducing the correction operator![alt text](/image-5.png)
         leads to the corrected integrated and network values
         ![alt text](/image-6.png)
         reduced by approx. one order of magnitude.
