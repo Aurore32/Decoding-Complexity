@@ -13,7 +13,7 @@ created: 1734710922586
     - The Level 3 (most complete) representation of an ownership network is as follows:
 
 
-![alt text](image.png)
+![alt text](/image.png)
 
 - $W_{ij}$ (arrow from firm $i$ to $j$): percentage ownership that firm $i$ has in $j$
 - $v_j$: a variable of the node $j$ representing the "economic value" of firm $j$ (e.g. market cap)
@@ -23,7 +23,7 @@ created: 1734710922586
 - <span style="background-color: #bc42f5; color: black;">(Question).</span> Given a certain ownership network, what can be said about the distribution of control?
     - The ownership network will have an associated adjacency matrix
     - It may have cycles (i.e. $k$ owns parts of $l$ and also vice versa):
-    ![alt text](image-2.png)
+    ![alt text](/image-2.png)
     - If there are no cycles, we can say that $W_{ik}$ (see (a)) is simply the product of the ownership of $i$ in the parent company $j$ and the ownership of $j$ in $k$: $W_{ik}=W_{ij} W_{jk}$.
     - However, the presence of cycles makes this significantly more difficult
     - <span style="background-color: #03cafc; color: black;">(Definition).</span> *Direct ownership* is e.g. $i$ owning $j$ (two firms directly connected by an arrow), and *indirect ownership* is two firms not directly connected yet still linked (e.g. $A$ owns $B$ which owns $C$, so $A$ indirectly owns $C$)
