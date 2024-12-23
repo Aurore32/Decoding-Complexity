@@ -17,4 +17,4 @@ created: 1734710879320
     - Level 3: nodes themselves can have information.
         - Analyzing networks at level 2 may reveal *bow-tie structures*, i.e. a core-periphery structure of the graph where a central section is strongly interconnected and the side sections are not
         - This is called a SCC (strongly connected component)
-        ![alt text](notes/image-1.png)
+        ![alt text](/image-1.png)
