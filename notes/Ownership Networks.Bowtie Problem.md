@@ -1,12 +1,12 @@
 ---
 id: tfmhe5e71xfjajh6dar4sei
-title: Bowtie Structure Refinements
+title: Bowtie Problem
 desc: ''
-updated: 1734840093701
+updated: 1734978555959
 created: 1734768934772
 nav_order: 6
 ---
-## Bowtie problem and refinements foor group ownership
+## Bowtie problem and refinements for group ownership
 - (<span style="background-color: #bc42f5; color: black;">Problem 2</span>). The *bow-tie* problem. 
     - Consider this example of a network exhibiting a bow-tie topology:
     ![alt text](image-3.png)

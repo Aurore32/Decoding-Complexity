@@ -3,8 +3,9 @@ id: nql117sxqchqhvztomyd2to
 title: Complex Networks
 nav_order: 1
 desc: ''
-updated: 1734840273726
+updated: 1735063938139
 created: 1734710879320
+nav_order: 1
 ---
 ## Complex networks
 - <span style="background-color: #03cafc; color: black;">(Definition.)</span> Complex systems = networks with many interacting/moving parts

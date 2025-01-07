@@ -2,13 +2,13 @@
 id: onyehjy0lt63qw4c231gnyt
 title: Group Ownership
 desc: ''
-updated: 1734840065344
+updated: 1734962441114
 created: 1734711518155
 nav_order: 1
 ---
 ## Group ownership and integrated ownership model
 - <span style="background-color: #12ffd7; color: black;">(Model).</span> Group ownership.
-- <span style="background-color: #03cafc; color: black;">Definition</span> (Business group). Define entities in a *business group* as a group of firms which have cross-shareholdings with one another, i.e. they own each other: e.g. $A$ owns 10% of $B$, $B4 owns 10% of $C$, $C$ owns 20% of $A$.
+- <span style="background-color: #03cafc; color: black;">Definition</span> (Business group). Define entities in a *business group* as a group of firms which have cross-shareholdings with one another, i.e. they own each other: e.g. $A$ owns 10% of $B$, $B$ owns 10% of $C$, $C$ owns 20% of $A$.
 
     - <span style="background-color: #03cafc; color: black;">Definition.</span> (External shareholder) There will also be an *external shareholder*: a firm which has direct ownership over all the firms in the group, but is not owned by the group.
     - <span style="background-color: #03cafc; color: black;">Definition</span> (Intrinsic value). Let $\mathbf{v}$ be the column vector denoting the *intrinsic value* (market cap, revenue, or some other metric) of each firm in the group

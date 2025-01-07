@@ -2,8 +2,9 @@
 id: zj5v3rtroourx5kvsozplk9
 title: Ownership Networks
 desc: ''
-updated: 1734711499615
+updated: 1735063932211
 created: 1734710922586
+nav_order: 2
 ---
 ## Ownership networks
 - <span style="background-color: #ffb812; color: black;">(Concept.)</span> Ownership networks:

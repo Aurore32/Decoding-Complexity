@@ -1,8 +1,8 @@
 ---
 id: 1es5gk1mwnnbslmao0uhg3z
-title: Self-Loop Problem and Refinements
+title: Self-Loop Problem
 desc: ''
-updated: 1734840071844
+updated: 1735045861898
 created: 1734714983334
 nav_order: 3
 ---
