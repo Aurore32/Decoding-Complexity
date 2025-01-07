@@ -1,0 +1,152 @@
+{
+  "roots": [
+    {
+      "key": "zj5v3rtroourx5kvsozplk9",
+      "title": "Ownership Networks",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Decoding Complexity",
+      "children": [
+        {
+          "key": "onyehjy0lt63qw4c231gnyt",
+          "title": "Integrated Ownership",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Decoding Complexity",
+          "children": []
+        },
+        {
+          "key": "cq54ts0k8yxwnxf4d8f9lgm",
+          "title": "Generalized Group Ownership",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Decoding Complexity",
+          "children": []
+        },
+        {
+          "key": "1es5gk1mwnnbslmao0uhg3z",
+          "title": "Self-Loop Problem",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Decoding Complexity",
+          "children": [
+            {
+              "key": "yk1zakk39x80xpb70v4gm5s",
+              "title": "Network Value and Integrated Value",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "w7f4bd4qpfzdha62d7pjn75",
+              "title": "Correction Operator",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "tfmhe5e71xfjajh6dar4sei",
+          "title": "Bowtie Problem",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Decoding Complexity",
+          "children": [
+            {
+              "key": "c41jx1mfpsvb3uikovusctk",
+              "title": "Flow in Ownership Networks",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "i6y65w9m41e586tibele629",
+              "title": "Algorithms for Bowtie Problem",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pcz62fciso6pf4lay4jzruz",
+      "title": "Control in Networks",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Decoding Complexity",
+      "children": [
+        {
+          "key": "4t77cc9gvku1rbfkjprdaqy",
+          "title": "Centrality in Networks",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Decoding Complexity",
+          "children": []
+        },
+        {
+          "key": "0rd28f46hgm9exbxx6bipil",
+          "title": "Models of Control",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Decoding Complexity",
+          "children": []
+        },
+        {
+          "key": "f9tktmdn21qtlu3hwpjnru6",
+          "title": "Models of Indirect Control",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Decoding Complexity",
+          "children": []
+        },
+        {
+          "key": "5y1y1xq84a3qs64ezuf7ku3",
+          "title": "Distribution of Control",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Decoding Complexity",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "zj5v3rtroourx5kvsozplk9": null,
+    "onyehjy0lt63qw4c231gnyt": "zj5v3rtroourx5kvsozplk9",
+    "cq54ts0k8yxwnxf4d8f9lgm": "zj5v3rtroourx5kvsozplk9",
+    "1es5gk1mwnnbslmao0uhg3z": "zj5v3rtroourx5kvsozplk9",
+    "yk1zakk39x80xpb70v4gm5s": "1es5gk1mwnnbslmao0uhg3z",
+    "w7f4bd4qpfzdha62d7pjn75": "1es5gk1mwnnbslmao0uhg3z",
+    "tfmhe5e71xfjajh6dar4sei": "zj5v3rtroourx5kvsozplk9",
+    "c41jx1mfpsvb3uikovusctk": "tfmhe5e71xfjajh6dar4sei",
+    "i6y65w9m41e586tibele629": "tfmhe5e71xfjajh6dar4sei",
+    "pcz62fciso6pf4lay4jzruz": null,
+    "4t77cc9gvku1rbfkjprdaqy": "pcz62fciso6pf4lay4jzruz",
+    "0rd28f46hgm9exbxx6bipil": "pcz62fciso6pf4lay4jzruz",
+    "f9tktmdn21qtlu3hwpjnru6": "pcz62fciso6pf4lay4jzruz",
+    "5y1y1xq84a3qs64ezuf7ku3": "pcz62fciso6pf4lay4jzruz"
+  },
+  "notesLabelById": {
+    "zj5v3rtroourx5kvsozplk9": "Ownership Networks",
+    "onyehjy0lt63qw4c231gnyt": "Integrated Ownership",
+    "cq54ts0k8yxwnxf4d8f9lgm": "Generalized Group Ownership",
+    "1es5gk1mwnnbslmao0uhg3z": "Self-Loop Problem",
+    "yk1zakk39x80xpb70v4gm5s": "Network Value and Integrated Value",
+    "w7f4bd4qpfzdha62d7pjn75": "Correction Operator",
+    "tfmhe5e71xfjajh6dar4sei": "Bowtie Problem",
+    "c41jx1mfpsvb3uikovusctk": "Flow in Ownership Networks",
+    "i6y65w9m41e586tibele629": "Algorithms for Bowtie Problem",
+    "pcz62fciso6pf4lay4jzruz": "Control in Networks",
+    "4t77cc9gvku1rbfkjprdaqy": "Centrality in Networks",
+    "0rd28f46hgm9exbxx6bipil": "Models of Control",
+    "f9tktmdn21qtlu3hwpjnru6": "Models of Indirect Control",
+    "5y1y1xq84a3qs64ezuf7ku3": "Distribution of Control"
+  }
+}
