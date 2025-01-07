@@ -1,6 +1,6 @@
 ---
 id: onyehjy0lt63qw4c231gnyt
-title: Group Ownership
+title: Integrated Ownership
 desc: ''
 updated: 1734962441114
 created: 1734711518155

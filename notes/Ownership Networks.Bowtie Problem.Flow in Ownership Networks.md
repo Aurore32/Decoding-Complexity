@@ -26,7 +26,7 @@ nav_order: 7
     - <span style="background-color: #bc42f5; color: black;">Observation</span>. $\phi = \nu^{int}$, the integrated value of the system.
     - <span style="background-color: #ffb812; color: black;">Interpretation</span>. The integrated value $\nu^{int}=\hat{W}v$ is an expression of how much a firm's ownership of other firms is worth; as such, it is also an expression of the flow of assets/stocks/value from all other firms to one firm.
         - This can intuitively explain the bowtie problem present in systems like the following:
-        ![alt text](image-3.png)
+        ![alt text](assets/image-3.png)
         - Node 1 is a *root node*, meaning that it has only outgoing ownership connections and no incoming connections (it owns other firms, but no firm owns it). Thus, when considering this network from the perspective of flow, assets will flow *towards* Node 1 but not *away* from it. 
         - Eventually, assets will accumulate in Node 1, leading to an extremely large integrated value.
         - This also explains the problem of *self-loops* and overestimation of integrated value in SCCs: the more self-loops that are present, the longer the assets will flow through the network

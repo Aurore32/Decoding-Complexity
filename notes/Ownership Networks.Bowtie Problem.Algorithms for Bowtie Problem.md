@@ -100,7 +100,7 @@ $$
 5. On $\mathcal{I}$, taking note to add the network values calculated in the previous step to the intrinsic value of the nodes.
 
 - For instance, the algorithm breaks down this network through the following steps:
-![alt text](image-3.png)
+![alt text](assets/image-3.png)
 - $\mathcal{I} = \{1\}$; $\mathcal{O} = \{6\}$; $\mathcal{S}=\{2,3,4,5\}$
 - Denote the vector of network values due to the algorithm above as $\dot{v}^{net}$. We will also have $\dot{\nu}^{int}=\dot{v}^{int}-v$.
 

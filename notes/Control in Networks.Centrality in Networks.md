@@ -1,6 +1,6 @@
 ---
 id: 4t77cc9gvku1rbfkjprdaqy
-title: 'Centrality in Networks'
+title: Centrality in Networks
 desc: ''
 updated: 1735225870174
 created: 1735063965233
