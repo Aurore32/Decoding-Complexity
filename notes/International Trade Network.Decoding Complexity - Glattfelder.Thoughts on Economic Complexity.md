@@ -2,7 +2,7 @@
 id: z5zud4p7rwge0azpdqgonwk
 title: Thoughts on Economic Complexity
 desc: ''
-updated: 1735297561667
+updated: 1736855473578
 created: 1735288465505
 nav_order: 1
 ---
@@ -77,4 +77,21 @@ $\tilde{C} = W\tilde{C} + C_0$. (Centrality of a node depends on centrality of n
 ## Analogies to economic complexity
 - A striking analogy that can be made between the two models is their column-stochastic nature. The types of networks (and adjacency matrices) that the above models support are column-stochastic (rows sum to 1)
     - $\sum_j W_{ij} = 1$: proportions of shares that all firms own in $j$ sum to 1
-    - Perhaps similarities with $\tilde{M}$ can be drawn
+    - Perhaps similarities with $\tilde{M}$ can be drawn?
+- Bipartite to monopartite conversion
+```mermaid
+flowchart TB
+  node_1(("country"))
+  node_2(("country"))
+  node_3(("country"))
+  node_4(("good"))
+  node_5(("good"))
+  node_6(("good"))
+  node_1 --> node_4
+  node_2 --> node_5
+  node_3 --> node_6
+  node_2 --> node_4
+  node_3 --> node_4
+  node_2 --> node_5
+  node_2 --> node_6
+```

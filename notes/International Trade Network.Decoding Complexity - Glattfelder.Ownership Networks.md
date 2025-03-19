@@ -14,7 +14,7 @@ nav_order: 2
     - The Level 3 (most complete) representation of an ownership network is as follows:
 
 
-![alt text](image.png)
+![alt text](assets/image.png)
 
 - $W_{ij}$ (arrow from firm $i$ to $j$): percentage ownership that firm $i$ has in $j$
 - $v_j$: a variable of the node $j$ representing the "economic value" of firm $j$ (e.g. market cap)
