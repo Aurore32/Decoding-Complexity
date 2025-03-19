@@ -1,0 +1,1 @@
+Notes on James Glattfelder's Paper, *Decoding Complexity*, regarding the application of complex network theory to ownership networks.

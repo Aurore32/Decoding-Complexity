@@ -1,0 +1,472 @@
+<h1 id="spatio-temporal-analysis-of-the-wtn">Spatio-Temporal Analysis of the WTN<a aria-hidden="true" class="anchor-heading icon-link" href="#spatio-temporal-analysis-of-the-wtn"></a></h1>
+<h3 id="liu-et-al">Liu et al.<a aria-hidden="true" class="anchor-heading icon-link" href="#liu-et-al"></a></h3>
+<p>The authors summarize every study conducted on the WTN from 2003 to 2023 and offer their thoughts on future areas to explore.</p>
+<hr>
+<h2 id="introductory-literature-review">Introductory literature review<a aria-hidden="true" class="anchor-heading icon-link" href="#introductory-literature-review"></a></h2>
+<ul>
+<li>Globalization has led to a complex system of trade where bilateral trade relations are affected by the entire network</li>
+<li>The WTN has consequential effects on other spatiotemporal networks, like geopolitical relations (Mansfield and Pevehouse 2000), transportation (Hummels 2007), and population movements (<a href="/Decoding-Complexity/notes/lh55zpesqyvfhcncq54uu92">Human Migration and Trade</a>)</li>
+<li>WTN analysis offers superior insights to bilaterial trade analysis:
+<ul>
+<li>Illustrates higher-level dependencies</li>
+<li>Variance and evolution across time and space</li>
+<li>Allows countries to make trade decisions with fewer risks</li>
+</ul>
+</li>
+<li>History of network analysis of world trade:
+<ul>
+<li>Hilgerdt 1943: impact of trade on monetary equilibrium</li>
+<li>Snyder and Kick 1979: hierarchical structure of world trade</li>
+<li>Serrano and Boguna 2003: complex-network structure of world trade</li>
+<li>An</li>
+</ul>
+</li>
+<li>WTN analysis mainly includes case studies (Reyes et al. 2010; Benedictis 2012, <a href="/Decoding-Complexity/notes/yej97k9kemjlgpbmqko5b6g">World Trade Network</a>)</li>
+<li>Paper studies 325 different papers studying the WTN from 2003 to 2023</li>
+</ul>
+<h2 id="research-framework">Research framework<a aria-hidden="true" class="anchor-heading icon-link" href="#research-framework"></a></h2>
+<h3 id="model-summaries">Model summaries<a aria-hidden="true" class="anchor-heading icon-link" href="#model-summaries"></a></h3>
+<ul>
+<li><strong>Structure prediction</strong>
+<ul>
+<li>Spatial econometric models
+<ul>
+<li>Node fitness models</li>
+<li>Cascading failure models</li>
+<li>Configuration models</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Correlation analysis</strong>
+<ul>
+<li>Mathematical models and correlation coefficients</li>
+</ul>
+</li>
+<li><strong>Topology analysis</strong>
+<ul>
+<li>Node distance</li>
+<li>Node centrality</li>
+<li>Denseness</li>
+<li>Heterogeneity</li>
+<li>Community and backbone</li>
+<li>Stability and implicit flow</li>
+</ul>
+</li>
+</ul>
+<h3 id="data-sources">Data sources<a aria-hidden="true" class="anchor-heading icon-link" href="#data-sources"></a></h3>
+<ul>
+<li>UN Comtrade (data since 1962)</li>
+<li>ResourceTrade and CITIES (trade data from specific areas)</li>
+<li>Explanatory variables (e.g. inflation, GDP, etc.): NBER, World Integrated Trade Solution (WITS), IMF, UNCTADstat
+<ul>
+<li>Trade, tariffs, investments, output value, population, etc.</li>
+</ul>
+</li>
+<li>Input-output analysis: Eora, WIOD, EXIOBASE, OECD-ICIO (15909 sectors across 190 countries)</li>
+<li>Integrated data platforms: World Bank (6500 databases across many fields), CEPII (economic + trade data, cultural data), Kristian Skrede Gleditsch (K-G)</li>
+<li>Other databases (politics, immigration, etc.)</li>
+<li>Most cited for WTN studies:
+<ul>
+<li>UN Comtrade (100)</li>
+<li>CEPII (45)</li>
+<li>World Bank (37)</li>
+<li>K-G (37)</li>
+<li>IMF (32)</li>
+</ul>
+</li>
+</ul>
+<h3 id="classifications-of-the-wtn">Classifications of the WTN<a aria-hidden="true" class="anchor-heading icon-link" href="#classifications-of-the-wtn"></a></h3>
+<ul>
+<li>Directionality and weight
+<ul>
+<li>Undirected-unweighted (<a href="/Decoding-Complexity/notes/wm1wnickmbbivwmbp7uhhwm">Trichotomous Measure of World-System Position in the WTN</a>)</li>
+<li>Undirected-weighted (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Clustering (Trade Blocs).Rich-Club Phenomenon (Private)</a>)</li>
+<li>Directed-weighted (<a href="/Decoding-Complexity/notes/y0lgmaxewbvyqo8pwd29lcg">Triadic Analysis of Agricultural Trade Networks</a>)</li>
+<li>Most of the literature studies weighted-directed WTNs; however, (<a href="/Decoding-Complexity/notes/eykj053wbpvs9t2smoafv5r">Microscopic Study of Node Fitness</a>) believe that weighted WTNs do not have greater explanatory power than unweighted WTNs</li>
+</ul>
+</li>
+<li>Node definition
+<ul>
+<li>Countries = nodes (most common)</li>
+<li>Products = nodes or sectors = nodes (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Multiproduct Trade Networks.Who Buys What Where (Private)</a>)</li>
+<li>Bipartite WTN (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Modeling.Multiproduct Trade Network.Prediction in Complex Systems (Private)</a>)</li>
+<li>Groups of countries = nodes (<a href="/Decoding-Complexity/notes/5j71za9um94xux4jkuv4z08">Network of Networks Perspective on Global Trade</a>)</li>
+</ul>
+</li>
+<li>Edge definition
+<ul>
+<li>Import vs. export data</li>
+<li>Different types of flow:
+<ul>
+<li>Monetary flow (most common)</li>
+<li>Energy, emission, environmental impact, chemical flows </li>
+<li><strong>Topological flow</strong>: 
+<ul>
+<li>Node similarity (<a href="/Decoding-Complexity/notes/5naesrl87qd08wtkvwbja90">Multi-Attribute Community Detection in WTN</a>)</li>
+<li>Weight-adjusted topological flow (De Andrade and Rigo 2018)</li>
+<li>Product-space proximity (<a href="/Decoding-Complexity/notes/jt4pa4l737rr7eafxhvybla">The Product Space Conditions the Development of Nations</a>)</li>
+<li>Internode competition (An et al. 2014)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Visualization tools
+<ul>
+<li>UCINET; Gephi; Cytoskape</li>
+<li>ArcGIS; QGIS; Python and MATLAB</li>
+<li>Web platforms such as RESOURCETRADE and FlowMapBlue</li>
+</ul>
+</li>
+<li>Methodologies
+<ul>
+<li>Topology analysis
+<ul>
+<li>Temporal (global and local evolution of WTN)</li>
+<li>Basic measures (distance, node centrality, denseness, heterogeneity)</li>
+<li>Structural measures (backbone, community, stability, implicit flow, robustness)</li>
+</ul>
+</li>
+<li>Structural prediction
+<ul>
+<li>Dynamic simulation of WTN evolution over time</li>
+<li>Spatial econometric models; cascading failure models</li>
+</ul>
+</li>
+<li>Correlation analysis
+<ul>
+<li>Relationship between WTN variables and other variables; relationship between WTN variables and WTN variables</li>
+<li>Degree-degree correlation; centrality-degree correlation, etc.</li>
+<li>WTN on economic growth</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="topology-analysis">Topology analysis<a aria-hidden="true" class="anchor-heading icon-link" href="#topology-analysis"></a></h2>
+<h3 id="basic-properties">Basic properties<a aria-hidden="true" class="anchor-heading icon-link" href="#basic-properties"></a></h3>
+<ul>
+<li>
+<p>Distance</p>
+<ul>
+<li>Topological proximity between nodes; distinct from weight</li>
+<li>Several measures exist
+<ul>
+<li>Flow distance: min. number of steps between two nodes (unweighted), reciprocal of min. weight between two nodes (weighted) (De Andrade and Rego 2018)</li>
+<li>Trade distance accounting for multilateral resistance effects (<a href="/Decoding-Complexity/notes/2mdkg6nwuxsnj32coe1ej7c">Topological Analysis of Trade Distance</a>)</li>
+<li>Estrada communication distance (<a href="/Decoding-Complexity/notes/rxt32ipqr0sfpq4hgn9btft">COVID-19 Diffusion</a>)</li>
+<li>Minkowski distance considering various node properties (<a href="/Decoding-Complexity/notes/5naesrl87qd08wtkvwbja90">Multi-Attribute Community Detection in WTN</a>)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Centrality</p>
+<ul>
+<li>Degree centrality; closeness centrality; betweenness centrality; eigenvector centrality</li>
+<li>Closeness and betweenness centrality measure global significance of the node as an in-between node (Zhong and An 2014, <a href="/Decoding-Complexity/notes/7x4rv5n10174jo29z5fqso6">Trade and Australia</a>)</li>
+<li>Eigenvector centrality reflects the number of important nodes a node is connected to, and extends to several other concepts:
+<ul>
+<li>Katz centrality (Liu et al. 2019)</li>
+<li>PageRank (Lamsal 2018)</li>
+<li>HITS (<a href="/Decoding-Complexity/notes/79iv6ou5f8mf9b70yl3nx6t">Weighted HITS</a>)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Denseness</p>
+<ul>
+<li>Density</li>
+<li>Clustering coefficients (Fagiolo 2007)</li>
+</ul>
+</li>
+<li>
+<p>Heterogeneity</p>
+<ul>
+<li>Whether measures like centrality or node fitness are the same (homogeneous) or different (heterogeneous) for all nodes</li>
+<li>Centrality distribution curves, average nearest neighbor centrality, heterogeneity coefficients</li>
+<li>WAAND and ANND</li>
+<li>Node heterogeneity index (<a href="/Decoding-Complexity/notes/k8qwh2019v7otcger0qxvho">Plastic and China Plastic Ban</a>)</li>
+<li>Disparity (Maeng et al., 2012)</li>
+<li>Homophily (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Modeling + Predicting the WTN.Evolution of Commonwealth WTN (Private)</a>)</li>
+</ul>
+</li>
+</ul>
+<h3 id="community-properties">Community properties<a aria-hidden="true" class="anchor-heading icon-link" href="#community-properties"></a></h3>
+<ul>
+<li>Backbone
+<ul>
+<li>Threshold-based methods
+<ul>
+<li>Nodes exceeding certain degree/strength are part of the backbone</li>
+<li>Inflexible; instead a top-X algorithm is used (Maeng et al. 2012)</li>
+</ul>
+</li>
+<li>Maximum-spanning tree methods
+<ul>
+<li>Subgraph with greatest sum of weights among all min. connected subgraphs</li>
+<li>Employed by (<a href="/Decoding-Complexity/notes/kzl08p4rfwhfzecypbnk31o">Spanning Trees of the WTN</a>)</li>
+</ul>
+</li>
+<li>Null model based methods (Piccardi and Tajoli 2012)</li>
+</ul>
+</li>
+<li>Community
+<ul>
+<li>Detection of strongly interconnected "trade islands"; helps understand trade regionalization</li>
+<li>Modularity optimization (Piccardi and Tajoli 2012, <a href="/Decoding-Complexity/notes/djci2178hbgdbcc3qyhg5nm">Trade Networks of the BRI</a>, <a href="/Decoding-Complexity/notes/rlxqz5kqept4i10zdjli7b3">The Rise of China</a>)
+<ul>
+<li>Divisive algorithms (fragments entire WTN into smaller communities)</li>
+<li>Agglomerative algorithms (starts from each individual node and builds up communities) (<a href="/Decoding-Complexity/notes/pw9zmg3r6wxpp28ri36qi15">Identifying the Community Structure of the WTN</a>; <a href="/Decoding-Complexity/notes/9njog3j87xrhymc7bofihoi">Meat Trade Network</a>)</li>
+<li>Community partition significance uses small perturbations (Hu et al. 2010) to determine whether global optimum solutions exist to community detection</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Stability
+<ul>
+<li>Extent of fluctuations in network topology over time</li>
+<li>Set similarity: similarity of WTN between two years
+<ul>
+<li>Jaccard index; autocorrelation function; Hamming distance (An et al. 2014; Wang et al. 2022)</li>
+</ul>
+</li>
+<li>Matrix similarity (<a href="/Decoding-Complexity/notes/zxdylcvljlcclmjanu21k1q">Stability of Oil Network</a>)</li>
+<li>Modified Hamming distance (<a href="/Decoding-Complexity/notes/5j71za9um94xux4jkuv4z08">Network of Networks Perspective on Global Trade</a>)</li>
+<li>Community structure stability based on Normalized Mutual Information (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Modeling + Predicting the WTN.Kaolin International Trade (Private)</a>; <a href="/Decoding-Complexity/notes/pw9zmg3r6wxpp28ri36qi15">Identifying the Community Structure of the WTN</a>)</li>
+</ul>
+</li>
+<li>Robustness
+<ul>
+<li>Stability of WTN when faced with disruptions</li>
+<li>Penetration threshold (<a href="/Decoding-Complexity/notes/c6zqsiqldbebt430a9s5674">Robustness of Oil Trade</a>)</li>
+<li>Stability-based measures without disruptions
+<ul>
+<li>HHI (<a href="/Decoding-Complexity/notes/pw9zmg3r6wxpp28ri36qi15">Identifying the Community Structure of the WTN</a>; <a href="/Decoding-Complexity/notes/7dgdhnbcb8oz4tvq5ai9awx">Global Energy Flow</a>; <a href="/Decoding-Complexity/notes/eslmxod6ea9s7el2vrkg5im">Country Risks</a>)</li>
+<li>Laplacian centrality</li>
+<li>Fiedler eigenvalue</li>
+<li>Spectral radius (<a href="/Decoding-Complexity/notes/5naesrl87qd08wtkvwbja90">Multi-Attribute Community Detection in WTN</a>)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Implicit flow
+<ul>
+<li>Influence between non-connected nodes in WTN</li>
+<li>Random walker model (<a href="/Decoding-Complexity/notes/nllkisix4v0g2j9gby9v0z9">Dominant Flows in the WTN</a>)</li>
+<li>Input-output analysis (<a href="/Decoding-Complexity/notes/okg3hbx1a0l1i31fkaueecs">Evolution of Oil Trade</a>)</li>
+</ul>
+</li>
+</ul>
+<h2 id="structure-prediction">Structure prediction<a aria-hidden="true" class="anchor-heading icon-link" href="#structure-prediction"></a></h2>
+<h3 id="gravity-models">Gravity models<a aria-hidden="true" class="anchor-heading icon-link" href="#gravity-models"></a></h3>
+<ul>
+<li>Incapable of considering multilateral dependence of trade relationships</li>
+<li>Two types of improvements:
+<ul>
+<li>Introducing WTN parameters into GM
+<ul>
+<li>Degree centrality (<a href="/Decoding-Complexity/notes/yej97k9kemjlgpbmqko5b6g">World Trade Network</a>)</li>
+<li>Human migration (<a href="/Decoding-Complexity/notes/lh55zpesqyvfhcncq54uu92">Human Migration and Trade</a>)</li>
+<li>Centrality distribution power index (<a href="/Decoding-Complexity/notes/o48r0fyuyuvwrg2smf7efgu">Heckscher-Ohlin</a>)</li>
+<li>GNN combined with GM (Verstyuk and Douglas 2022)</li>
+</ul>
+</li>
+<li>Changing the mechanisms of the GM
+<ul>
+<li>Changing indices of distance (<a href="/Decoding-Complexity/notes/kzl08p4rfwhfzecypbnk31o">Spanning Trees of the WTN</a>)</li>
+<li>Effective trade distance rather than geographical distance (<a href="/Decoding-Complexity/notes/2mdkg6nwuxsnj32coe1ej7c">Topological Analysis of Trade Distance</a>)</li>
+<li>Using General Bilinear Mixed Effects model to simulate multilateral dependence (Ward et al. 2013)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="spatial-regression-models">Spatial regression models<a aria-hidden="true" class="anchor-heading icon-link" href="#spatial-regression-models"></a></h3>
+<ul>
+<li>Consider spatial autocorrelation between nodes (local nodes influenced by neighboring nodes)
+<ul>
+<li><a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Economic Growth.A Multi-Network Perspective (Private)</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="node-fitness-models">Node fitness models<a aria-hidden="true" class="anchor-heading icon-link" href="#node-fitness-models"></a></h3>
+<ul>
+<li>Derived from intrinsic variable models: nodes possess an intrinsic value that determines connection probability between any two nodes</li>
+<li>Virtual network generated based on this fitness can reproduce properties of the real network</li>
+<li>Node fitness defined as normalized GDP (<a href="/Decoding-Complexity/notes/5f3h3jfl8evxs2reqsteqrp">Fitness-Dependent Topological Properties</a>)</li>
+<li>Standard fitness model with simple binary relationship used (<a href="/Decoding-Complexity/notes/5f3h3jfl8evxs2reqsteqrp">Fitness-Dependent Topological Properties</a>); adjusted fitness model (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Modeling + Predicting the WTN.Structure and Evolution of the WTN (Private)</a>; <a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Modeling + Predicting the WTN.Topology and Dynamics (Private)</a>)</li>
+<li>Fitness model used to forecast trade volumes (<a href="/Decoding-Complexity/notes/iljog4hedp124v2gciv49hd">GDP-Driven Structural Prediction</a>)</li>
+<li>Fitness difference term proposed (<a href="/Decoding-Complexity/notes/eykj053wbpvs9t2smoafv5r">Microscopic Study of Node Fitness</a>)</li>
+</ul>
+<h3 id="configuration-models">Configuration models<a aria-hidden="true" class="anchor-heading icon-link" href="#configuration-models"></a></h3>
+<ul>
+<li>Maximum-entropy null model generation:
+<ul>
+<li>Binary generation (Squartini et al. 2011)</li>
+<li>Enhanced generation (Mastrandrea et al. 2014)</li>
+<li>Directed generation (Ruzzenenti et al. 2012)</li>
+<li>Bipartite generation (<a href="/Decoding-Complexity/notes/cpco4qv43fyochpx4g5ev7x">Warning Signals for Crises</a>)</li>
+<li>Fitness generation (Cimini et al. 2015)</li>
+</ul>
+</li>
+<li>Empirical evidence suggests that the binary WTN can be entirely reconstructed from weights</li>
+<li>Also conducted two-step analysis (<a href="/Decoding-Complexity/notes/iljog4hedp124v2gciv49hd">GDP-Driven Structural Prediction</a>; Cimini et al. 2015)</li>
+<li>Comparisons between real WTN and null models reveal geographic dependency (Ruzzenenti et al. 2012), nestedness (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Clustering.Nested Structure of the WTN (Private)</a>), and recession warning signals (<a href="/Decoding-Complexity/notes/cpco4qv43fyochpx4g5ev7x">Warning Signals for Crises</a>)</li>
+</ul>
+<h3 id="cascading-failure-models">Cascading failure models<a aria-hidden="true" class="anchor-heading icon-link" href="#cascading-failure-models"></a></h3>
+<ul>
+<li>Based on supply chain theory</li>
+<li>Bootstrap percolation (<a href="/Decoding-Complexity/notes/c99ofzra7sc2t7f2809vfl6">Bootstrap Percolation and Attack</a>)</li>
+<li>Two improvements to bootstrap:
+<ul>
+<li>Weight distribution (<a href="/Decoding-Complexity/notes/j8f4ovcx7xdk5myqxy4gh0e">Topology and Crisis Propagation</a>); stronger nations suffer less from crises (Grassia et al. 2022)</li>
+<li>Absorption of crises (<a href="/Decoding-Complexity/notes/a7hlh23crkim9052x46fzx4">Spillover Effect</a>; <a href="/Decoding-Complexity/notes/658lrxorxutx9jkpz9wdtms">COVID-19 and Shocks</a>)</li>
+<li>Weak links in crisis propagation cannot be overlooked (<a href="/Decoding-Complexity/notes/j8f4ovcx7xdk5myqxy4gh0e">Topology and Crisis Propagation</a>; Lee and Goh 2016)</li>
+</ul>
+</li>
+</ul>
+<h3 id="other-models">Other models<a aria-hidden="true" class="anchor-heading icon-link" href="#other-models"></a></h3>
+<ul>
+<li>Topological similarity models; preferential attachment (Zhou et al. 2022)</li>
+<li>Agent decision models (each producer maximizes their own profit/minimizes their own costs) - globalization (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Modeling + Predicting the WTN.Locally Optimal Individual Decisions (Private)</a>), Brexit (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Modeling + Predicting the WTN.Brexit (Private)</a>)</li>
+<li>Predicting link formation/export baskets via bipartite model (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Modeling.Multiproduct Trade Network.Prediction in Complex Systems (Private)</a>)</li>
+</ul>
+<h2 id="correlation-analysis">Correlation analysis<a aria-hidden="true" class="anchor-heading icon-link" href="#correlation-analysis"></a></h2>
+<h3 id="correlation-between-topological-attributes">Correlation between topological attributes<a aria-hidden="true" class="anchor-heading icon-link" href="#correlation-between-topological-attributes"></a></h3>
+<ul>
+<li>Degree-ANND correlation (<a href="/Decoding-Complexity/notes/l0dsge81cv16gtkb79q3gal">Topology of the World Trade Web</a>) and strength-ANNS correlation (<a href="/Decoding-Complexity/notes/lyup97v6xepf1xhvh2s3zd6">Economic Integration in East Asia and Latin America</a>) both negative and more pronounced over time (<a href="/Decoding-Complexity/notes/tkrbk0n721h4sm3in9farp3">Analytic Process Framework</a>)</li>
+<li>Out-degree and in-degree correlation (<a href="/Decoding-Complexity/notes/l0dsge81cv16gtkb79q3gal">Topology of the World Trade Web</a>) and out-strength and in-strength correlation positive, fit power law</li>
+<li>Positive degree-strength correlation (Liu et al. 2007; <a href="/Decoding-Complexity/notes/tkrbk0n721h4sm3in9farp3">Analytic Process Framework</a>)</li>
+<li>Clustering coefficient-degree correlation negative but WCC-strength correlation positive (<a href="/Decoding-Complexity/notes/z607rnqmdcymcibjmth4l53">Fagiolo et al</a>)</li>
+<li>Core-periphery topology</li>
+</ul>
+<h3 id="correlation-between-network-attributes-and-other-indicators">Correlation between network attributes and other indicators<a aria-hidden="true" class="anchor-heading icon-link" href="#correlation-between-network-attributes-and-other-indicators"></a></h3>
+<ul>
+<li>Economic/political/environmental indicators, e.g. GDP; central nations in the WTN have higher GDPs (<a href="/Decoding-Complexity/notes/lh55zpesqyvfhcncq54uu92">Human Migration and Trade</a>; Schiavo et al. 2014)</li>
+<li>Edge weights correlated with geographical distance (<a href="/Decoding-Complexity/notes/rd2t2hlbgel0ollz79444v9">Investment Networks</a>)</li>
+</ul>
+<h3 id="correlation-between-cross-product-attributes">Correlation between cross-product attributes<a aria-hidden="true" class="anchor-heading icon-link" href="#correlation-between-cross-product-attributes"></a></h3>
+<ul>
+<li>Similarities between WTNs formed by different products or times</li>
+<li>Clustering coefficients, in- and out-strengths, etc. similar for products that share HS codes (<a href="/Decoding-Complexity/notes/t4pkhvfwtunbkxayauadd1n">Multinetwork of International Trade</a>)</li>
+<li>Human migration and WTN correlated (<a href="/Decoding-Complexity/notes/lh55zpesqyvfhcncq54uu92">Human Migration and Trade</a>); FDI and WTN correlated (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Economic Growth.A Multi-Network Perspective (Private)</a>)</li>
+</ul>
+<h3 id="overlap-between-wtn-and-similar-networks">Overlap between WTN and similar networks<a aria-hidden="true" class="anchor-heading icon-link" href="#overlap-between-wtn-and-similar-networks"></a></h3>
+<ul>
+<li>Jaccard index used to measure overlap between WTN and migration network (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Economic Growth.A Multi-Network Perspective (Private)</a>)</li>
+<li>Commodity-specific weighted analysis reveals that similar commodities have similar trade patterns (<a href="/Decoding-Complexity/notes/t4pkhvfwtunbkxayauadd1n">Multinetwork of International Trade</a>; <a href="/Decoding-Complexity/notes/iyh2k8aiio3wul6ozrg8xru">Multiplex Cascading Failure</a>)</li>
+<li>Element difference and quadratic assignment procedure (QAP) reveal correlations with the FDI, inflation rate, exchange rate, and high-tech exports (<a href="/Decoding-Complexity/notes/tkrbk0n721h4sm3in9farp3">Analytic Process Framework</a>)</li>
+<li>Positive effect of geographic adjacency and negative effect of institutional disparities on trade (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Multiproduct Trade Networks.Recommendations of New Produ (Private)</a>)</li>
+</ul>
+<h3 id="exponential-random-graph-models">Exponential random graph models<a aria-hidden="true" class="anchor-heading icon-link" href="#exponential-random-graph-models"></a></h3>
+<ul>
+<li>Temporal ERGMs (Xu, Yang and Razzaq 2021; <a href="/Decoding-Complexity/notes/iaht1ayz0fxbfn7mx5nksa4">Humanistic Factors Along the BRI</a>)</li>
+<li>Separable TERGM for WTN evolution dynamics (<a href="/Decoding-Complexity/notes/yflq7wdq46ipnj0cnaqt8q3">ERGM Analysis of the WTN</a>)</li>
+<li>Use AIC and BIC</li>
+</ul>
+<h3 id="econometric-models">Econometric models<a aria-hidden="true" class="anchor-heading icon-link" href="#econometric-models"></a></h3>
+<ul>
+<li>Influence of WTN on economic fluctuations (<a href="/Decoding-Complexity/notes/qqepse99u47bb4htaxjf36s">Trade and Volatility</a>)</li>
+<li>GNNs to predict national income levels (Panford-Quainoo et al. 2020)</li>
+</ul>
+<h2 id="discussion">Discussion<a aria-hidden="true" class="anchor-heading icon-link" href="#discussion"></a></h2>
+<ul>
+<li>WTN analysis reveals structure and evolution of trade (<a href="/Decoding-Complexity/notes/yej97k9kemjlgpbmqko5b6g">World Trade Network</a>)</li>
+<li>Bilateral trade not independent of influences of other countries, requiring WTN (<a href="/Decoding-Complexity/notes/c97au9i2v0yu2oykbpt2fyw">Gravity Rainbow</a>)</li>
+<li>WTN links can reveal:
+<ul>
+<li>Status of countries in global value chains (Reyes et al. 2010)</li>
+<li>Implicit impacts between non-adjacent countries (Abeysinghe and Forbes 2005)</li>
+<li>Heterogeneity (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Modeling + Predicting the WTN.Evolution of Commonwealth WTN (Private)</a>)</li>
+<li>Triadic structures (<a href="/Decoding-Complexity/notes/5ehy78oq53dih7gt8pf9d1u">Structure and Formation of Top Networks</a>)</li>
+<li>Economic integration (<a href="/Decoding-Complexity/notes/hkebf5c01cmpi0r7rmu5c0d">Measuring Globalization</a>)</li>
+</ul>
+</li>
+<li>The WTN can be used to construct scenarios on multiple levels:
+<ul>
+<li>Level 1: trade itself
+<ul>
+<li>Multiscale ITNs (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Multiproduct Trade Networks.Recommendations of New Produ (Private)</a>)</li>
+<li>Multiple commodity ITNs (Gephart and Pace 2015)</li>
+<li>Temporal ITNs (Luo and Yuan 2021)</li>
+</ul>
+</li>
+<li>Level 2: the structure of trade
+<ul>
+<li>Centrality (<a href="/Decoding-Complexity/notes/yej97k9kemjlgpbmqko5b6g">World Trade Network</a>)</li>
+<li>Distance measures (Piccardi and Tajoli 2012)</li>
+<li>Communities (<a href="/Decoding-Complexity/notes/c6zqsiqldbebt430a9s5674">Robustness of Oil Trade</a>), stability of communities (<a href="/Decoding-Complexity/notes/9p54btszp8l95djvyjauvix">Features of Oil Trade</a>)</li>
+<li>Density (<a href="/Decoding-Complexity/notes/yej97k9kemjlgpbmqko5b6g">World Trade Network</a>), connectivity (<a href="/Decoding-Complexity/notes/t4pkhvfwtunbkxayauadd1n">Multinetwork of International Trade</a>), trade chains (Reyes et al. 2010)</li>
+</ul>
+</li>
+<li>Level 3: the dynamics and evolution of trade
+<ul>
+<li>Random walkers (<a href="/Decoding-Complexity/notes/nllkisix4v0g2j9gby9v0z9">Dominant Flows in the WTN</a>); input-output analysis (<a href="/Decoding-Complexity/notes/okg3hbx1a0l1i31fkaueecs">Evolution of Oil Trade</a>)</li>
+<li>Reconstruction of trade flows via basic network features (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Multiproduct Trade Networks.Who Buys What Where (Private)</a>)</li>
+<li>Interaction between trade and other systems</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>The WTN is useful for observing dynamic changes of world trade over time
+<ul>
+<li>Evolution of trade status of countries (<a href="/Decoding-Complexity/notes/79iv6ou5f8mf9b70yl3nx6t">Weighted HITS</a>); formation of network hierarchies (<a href="/Decoding-Complexity/notes/tkrbk0n721h4sm3in9farp3">Analytic Process Framework</a>); market regulations (An et al. 2014); economic prosperity (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Modeling + Predicting the WTN.Kaolin International Trade (Private)</a>); integration (Tzekina et al. 2008; Barigozzi et al. 2010)
+<ul>
+<li>Integration leads to convergent behavior among economies (<a href="/Decoding-Complexity/notes/oyslee8kqkl348j60bxhkox">Synchronization of the WTN</a>)</li>
+</ul>
+</li>
+<li>Impact of other trends on trade:
+<ul>
+<li>Finance (<a href="/Decoding-Complexity/notes/5j71za9um94xux4jkuv4z08">Network of Networks Perspective on Global Trade</a>); wars (An et al. 2014); varying impacts of shocks (Liu et al. 2019)</li>
+</ul>
+</li>
+<li>Policy recommendations
+<ul>
+<li>Increasing node degree is beneficial for countries (Sun et al. 2022)</li>
+<li>Increasing complexity of products is beneficial (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Modeling + Predicting the WTN.Kaolin International Trade (Private)</a>; Liao et al. 2018)</li>
+<li>Market innovation matrix (<a href="/Decoding-Complexity/notes/7x4rv5n10174jo29z5fqso6">Trade and Australia</a>)</li>
+<li>QAP Analysis (<a href="/Decoding-Complexity/notes/zppgarnhfd47wrkt6n9th02">Petroleum Along the BRI</a>; <a href="/Decoding-Complexity/notes/tkrbk0n721h4sm3in9farp3">Analytic Process Framework</a>)</li>
+<li>Risk mitigation:
+<ul>
+<li>Diversify partners (Li et al. 2021)</li>
+<li>Improve productivity (Liang et al. 2020)</li>
+<li>Develop alternative products (<a href="/Decoding-Complexity/notes/unwdsyuczp4d66a8kuzv0r4">Crude Oil Competition Networks</a>)</li>
+<li>Stimulating domestic consumption (<a href="/Decoding-Complexity/notes/eslmxod6ea9s7el2vrkg5im">Country Risks</a>)</li>
+<li>Increasing trade agreements (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Modeling + Predicting the WTN.Kaolin International Trade (Private)</a>)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="future-agendas">Future agendas<a aria-hidden="true" class="anchor-heading icon-link" href="#future-agendas"></a></h2>
+<ul>
+<li><strong>Broader scenario reconstruction</strong>   
+<ul>
+<li>Analyze on a commodity-to-commodity basis (<a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Clustering.Nested Structure of the WTN (Private)</a>)</li>
+<li>Cascading failure models (<a href="/Decoding-Complexity/notes/iyh2k8aiio3wul6ozrg8xru">Multiplex Cascading Failure</a>; Liu et al. 2016)</li>
+<li>Artificial intelligence, including GNNs</li>
+</ul>
+</li>
+</ul>
+<h2 id="connected-research">Connected research<a aria-hidden="true" class="anchor-heading icon-link" href="#connected-research"></a></h2>
+<ul>
+<li><a href="/Decoding-Complexity/notes/2mdkg6nwuxsnj32coe1ej7c">Topological Analysis of Trade Distance</a>, Wu et al., 2020</li>
+<li><a href="/Decoding-Complexity/notes/5j71za9um94xux4jkuv4z08">Network of Networks Perspective on Global Trade</a>, </li>
+<li><a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Modeling.Multiproduct Trade Network.Prediction in Complex Systems (Private)</a>, Vidmer et al., 2015</li>
+<li><a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">International Trade Network.Multiproduct Trade Networks.Who Buys What Where (Private)</a>, Ikeda et al. 2016</li>
+<li><a href="/Decoding-Complexity/notes/eykj053wbpvs9t2smoafv5r">Microscopic Study of Node Fitness</a>, Hoppe and Rodgers 2015</li>
+<li><a href="/Decoding-Complexity/notes/wm1wnickmbbivwmbp7uhhwm">Trichotomous Measure of World-System Position in the WTN</a>, Clark and Beckfield 2012</li>
+<li><a href="/Decoding-Complexity/notes/y0lgmaxewbvyqo8pwd29lcg">Triadic Analysis of Agricultural Trade Networks</a>, Shutters and Muneepeerakul 2012</li>
+<li><a href="/Decoding-Complexity/notes/lyup97v6xepf1xhvh2s3zd6">Economic Integration in East Asia and Latin America</a>, Reyes et al. 2010</li>
+<li><a href="/Decoding-Complexity/notes/tkrbk0n721h4sm3in9farp3">Analytic Process Framework</a>, Zhao and Dzever 2018</li>
+<li><a href="/Decoding-Complexity/notes/iyh2k8aiio3wul6ozrg8xru">Multiplex Cascading Failure</a>, Zhang et al. 2016</li>
+<li><a href="/Decoding-Complexity/notes/lh55zpesqyvfhcncq54uu92">Human Migration and Trade</a>, Fagiolo and Mastrorillo 2014.</li>
+<li><strong>Trade Blocs, Trade Flows, and International Conflict</strong>, Mansfield and Pevehouse 2000. Membership in the same trade bloc decreases chance of military conflict.</li>
+<li><strong>Structure and formation of top networks in international trade, 2001-2010</strong>, Zhou et al.</li>
+</ul>

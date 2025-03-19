@@ -1,0 +1,1086 @@
+{
+  "roots": [
+    {
+      "key": "k6p67151vpxebleitlwbo6n",
+      "title": "World Trade Network",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Decoding Complexity",
+      "children": [
+        {
+          "key": "dvcc183t9lhn3smt1sj01hr",
+          "title": "Decoding Complexity - Glattfelder",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Decoding Complexity",
+          "children": [
+            {
+              "key": "z5zud4p7rwge0azpdqgonwk",
+              "title": "Thoughts on Economic Complexity",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": [
+                {
+                  "key": "oitc4o62ygmxw1typhns5vp",
+                  "title": "Economic Complexity in Monopartite Networks",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "zj5v3rtroourx5kvsozplk9",
+              "title": "Ownership Networks",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": [
+                {
+                  "key": "onyehjy0lt63qw4c231gnyt",
+                  "title": "Integrated Ownership",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": []
+                },
+                {
+                  "key": "cq54ts0k8yxwnxf4d8f9lgm",
+                  "title": "Generalized Group Ownership",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": []
+                },
+                {
+                  "key": "1es5gk1mwnnbslmao0uhg3z",
+                  "title": "Self-Loop Problem",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": [
+                    {
+                      "key": "yk1zakk39x80xpb70v4gm5s",
+                      "title": "Network Value and Integrated Value",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Decoding Complexity",
+                      "children": []
+                    },
+                    {
+                      "key": "w7f4bd4qpfzdha62d7pjn75",
+                      "title": "Correction Operator",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Decoding Complexity",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "tfmhe5e71xfjajh6dar4sei",
+                  "title": "Bowtie Problem",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": [
+                    {
+                      "key": "c41jx1mfpsvb3uikovusctk",
+                      "title": "Flow in Ownership Networks",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Decoding Complexity",
+                      "children": []
+                    },
+                    {
+                      "key": "i6y65w9m41e586tibele629",
+                      "title": "Algorithms for Bowtie Problem",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Decoding Complexity",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "pcz62fciso6pf4lay4jzruz",
+              "title": "Control in Networks",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": [
+                {
+                  "key": "4t77cc9gvku1rbfkjprdaqy",
+                  "title": "Centrality in Networks",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": []
+                },
+                {
+                  "key": "0rd28f46hgm9exbxx6bipil",
+                  "title": "Models of Control",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": []
+                },
+                {
+                  "key": "f9tktmdn21qtlu3hwpjnru6",
+                  "title": "Models of Indirect Control",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": []
+                },
+                {
+                  "key": "5y1y1xq84a3qs64ezuf7ku3",
+                  "title": "Distribution of Control",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "rf4pf7g8c8c6rwkz5b9g575",
+          "title": "Network Analysis and Topology",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Decoding Complexity",
+          "children": [
+            {
+              "key": "l0dsge81cv16gtkb79q3gal",
+              "title": "Topology of the World Trade Web",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": [
+                {
+                  "key": "lyup97v6xepf1xhvh2s3zd6",
+                  "title": "Economic Integration in East Asia and Latin America",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": []
+                },
+                {
+                  "key": "z607rnqmdcymcibjmth4l53",
+                  "title": "Fagiolo et al",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "79iv6ou5f8mf9b70yl3nx6t",
+              "title": "Weighted HITS",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "nllkisix4v0g2j9gby9v0z9",
+              "title": "Dominant Flows in the WTN",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "kzl08p4rfwhfzecypbnk31o",
+              "title": "Spanning Trees of the WTN",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "oyslee8kqkl348j60bxhkox",
+              "title": "Synchronization of the WTN",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "wm1wnickmbbivwmbp7uhhwm",
+              "title": "Trichotomous Measure of World-System Position in the WTN",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "yej97k9kemjlgpbmqko5b6g",
+              "title": "World Trade Network",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "h17rtrfehmkbdziym0ewhbo",
+          "title": "Clustering",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Decoding Complexity",
+          "children": [
+            {
+              "key": "p3gm777blatqh7vpbk7yl7f",
+              "title": "Analyzing Global Geopolitical Stability",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "jf2jjp242n9lvasjkhu01tr",
+              "title": "Evolution of Community Structure",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "0ib6tizbil3croj4u6nyc5r",
+              "title": "Graph Clustering With GNNs",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "pw9zmg3r6wxpp28ri36qi15",
+              "title": "Identifying the Community Structure of the WTN",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "fetrzruicybe1evukrs5kc1",
+              "title": "Modularity and Community Structure in Networks",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "5naesrl87qd08wtkvwbja90",
+              "title": "Multi-Attribute Community Detection in WTN",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "5j71za9um94xux4jkuv4z08",
+              "title": "Network of Networks Perspective on Global Trade",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "9g58tudcp2ec0hgd2c4p51u",
+              "title": "Rich Cores in Networks",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "bg1r8e94dx58i379mbw06zy",
+              "title": "Rich-Club Phenomenon",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "5ehy78oq53dih7gt8pf9d1u",
+              "title": "Structure and Formation of Top Networks",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "rlxqz5kqept4i10zdjli7b3",
+              "title": "The Rise of China",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "5nm358nhzynqso1mjkcxn8n",
+              "title": "Trade Blocs in an Era of Globalization",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "djci2178hbgdbcc3qyhg5nm",
+              "title": "Trade Networks of the BRI",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "17mj3gz1duwkm32ohynwi26",
+              "title": "Trading Blocs and the Americas",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "smo25071kryqm59p9sbrn05",
+          "title": "Crisis Propagation",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Decoding Complexity",
+          "children": [
+            {
+              "key": "c99ofzra7sc2t7f2809vfl6",
+              "title": "Bootstrap Percolation and Attack",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "rxt32ipqr0sfpq4hgn9btft",
+              "title": "COVID-19 Diffusion",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "658lrxorxutx9jkpz9wdtms",
+              "title": "COVID-19 and Shocks",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "0t3gvam7vkqdvvrbq9hoysb",
+              "title": "Financial Contagion in the WTN",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "s71be1stp2w8czpzo00q1j0",
+              "title": "Global Value-Added Trade and Risk Transmis",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "iyh2k8aiio3wul6ozrg8xru",
+              "title": "Multiplex Cascading Failure",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "6lk51m6bcm5a8cw9vcfmfte",
+              "title": "Robustness",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "a7hlh23crkim9052x46fzx4",
+              "title": "Spillover Effect",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "ujxko2cqvute5pm36pjgx4j",
+              "title": "Structure and Response in the WTN",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "j8f4ovcx7xdk5myqxy4gh0e",
+              "title": "Topology and Crisis Propagation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "cpco4qv43fyochpx4g5ev7x",
+              "title": "Warning Signals for Crises",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "06rwxfvirvxie8d44jmr6ze",
+          "title": "Economic Growth",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Decoding Complexity",
+          "children": [
+            {
+              "key": "epzg81heqapv1aqo0p00mv6",
+              "title": "Consumer Demand and Cost Factors",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "iljog4hedp124v2gciv49hd",
+              "title": "GDP-Driven Structural Prediction",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "c97au9i2v0yu2oykbpt2fyw",
+              "title": "Gravity Rainbow",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "o48r0fyuyuvwrg2smf7efgu",
+              "title": "Heckscher-Ohlin",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "i1zqex62pq252etxtmcew23",
+              "title": "ITN and Financial Integration",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "2uynrlrulkzxh1qnwpsh1dc",
+              "title": "Networks in Growth",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "qzv8arcb7chp3ng0m190obp",
+              "title": "Openness and Growth",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "roj8za85govp2tda1mkle04",
+              "title": "Trade Structure and Economic Growth",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "qqepse99u47bb4htaxjf36s",
+              "title": "Trade and Volatility",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "okk3ipwdjbdz1nnah0omk11",
+          "title": "Miscellaneous + Case Studies",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Decoding Complexity",
+          "children": [
+            {
+              "key": "uzi25jawlw1i8hm3m44ccyz",
+              "title": "Spatio-Temporal Analysis of the WTN",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "7jwn2p09u3vuev8i4oszg4x",
+              "title": "Complexity of Food Trade Network",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "eslmxod6ea9s7el2vrkg5im",
+              "title": "Country Risks",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "unwdsyuczp4d66a8kuzv0r4",
+              "title": "Crude Oil Competition Networks",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "okg3hbx1a0l1i31fkaueecs",
+              "title": "Evolution of Oil Trade",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "9p54btszp8l95djvyjauvix",
+              "title": "Features of Oil Trade",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "7dgdhnbcb8oz4tvq5ai9awx",
+              "title": "Global Energy Flow",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "lh55zpesqyvfhcncq54uu92",
+              "title": "Human Migration and Trade",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "rd2t2hlbgel0ollz79444v9",
+              "title": "Investment Networks",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "9njog3j87xrhymc7bofihoi",
+              "title": "Meat Trade Network",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "zppgarnhfd47wrkt6n9th02",
+              "title": "Petroleum Along the BRI",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "k8qwh2019v7otcger0qxvho",
+              "title": "Plastic and China Plastic Ban",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "c6zqsiqldbebt430a9s5674",
+              "title": "Robustness of Oil Trade",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "zxdylcvljlcclmjanu21k1q",
+              "title": "Stability of Oil Network",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "7x4rv5n10174jo29z5fqso6",
+              "title": "Trade and Australia",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "y0lgmaxewbvyqo8pwd29lcg",
+              "title": "Triadic Analysis of Agricultural Trade Networks",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "l53tj10v2o9bdedlbrcp3aq",
+          "title": "Generative Models and Evolution",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Decoding Complexity",
+          "children": [
+            {
+              "key": "tkrbk0n721h4sm3in9farp3",
+              "title": "Analytic Process Framework",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "hiyrf5agm1b80g2u56dzp8u",
+              "title": "ERGM + Stochastic",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": [
+                {
+                  "key": "yflq7wdq46ipnj0cnaqt8q3",
+                  "title": "ERGM Analysis of the WTN",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": []
+                },
+                {
+                  "key": "iaht1ayz0fxbfn7mx5nksa4",
+                  "title": "Humanistic Factors Along the BRI",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": []
+                },
+                {
+                  "key": "9yt9uoex98yttqnlgn1509o",
+                  "title": "Stochastic Generative Model",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": []
+                },
+                {
+                  "key": "0p9wqve45057y5vgk1azjxp",
+                  "title": "Stochastic Trade Networks",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "665b91dbukiuxnuhwm0lshm",
+              "title": "Fitness",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": [
+                {
+                  "key": "5f3h3jfl8evxs2reqsteqrp",
+                  "title": "Fitness-Dependent Topological Properties",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": []
+                },
+                {
+                  "key": "eykj053wbpvs9t2smoafv5r",
+                  "title": "Microscopic Study of Node Fitness",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "mmfps6850ejgvowfgll6toe",
+              "title": "Gravity",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": [
+                {
+                  "key": "ri1v3iy7mn3fmyj54o54m0b",
+                  "title": "Modeling the ITN - A Gravity Approach",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": []
+                },
+                {
+                  "key": "2mdkg6nwuxsnj32coe1ej7c",
+                  "title": "Topological Analysis of Trade Distance",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Decoding Complexity",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "hkebf5c01cmpi0r7rmu5c0d",
+              "title": "Measuring Globalization",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "al6gb71cch41vimi4peaib6",
+              "title": "Null Models of the WTN",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "1748vgij8vs7jp8j7jy8ceh",
+              "title": "Rise or Fall",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "2k3bq7js4cd0nfmpmzwr4w1",
+          "title": "Multiproduct Trade Networks",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Decoding Complexity",
+          "children": [
+            {
+              "key": "ftah6ge9ih25429p49ig2hh",
+              "title": "Country Space",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "t4pkhvfwtunbkxayauadd1n",
+              "title": "Multinetwork of International Trade",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "3zn2jpa197hullk0verlm9l",
+              "title": "Prediction in Complex Systems",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "wb1dpz7av6fr4hht0phsls8",
+              "title": "Product Diversification",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "3wi9459b9vh05jdzt9r08oz",
+              "title": "Strategies for Selecting Trading Partners",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "z1anzre9fist64my4se6slh",
+              "title": "The Multiproduct Google Matrix of World Trade",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            },
+            {
+              "key": "jt4pa4l737rr7eafxhvybla",
+              "title": "The Product Space Conditions the Development of Nations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Decoding Complexity",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "k6p67151vpxebleitlwbo6n": null,
+    "dvcc183t9lhn3smt1sj01hr": "k6p67151vpxebleitlwbo6n",
+    "z5zud4p7rwge0azpdqgonwk": "dvcc183t9lhn3smt1sj01hr",
+    "oitc4o62ygmxw1typhns5vp": "z5zud4p7rwge0azpdqgonwk",
+    "zj5v3rtroourx5kvsozplk9": "dvcc183t9lhn3smt1sj01hr",
+    "onyehjy0lt63qw4c231gnyt": "zj5v3rtroourx5kvsozplk9",
+    "cq54ts0k8yxwnxf4d8f9lgm": "zj5v3rtroourx5kvsozplk9",
+    "1es5gk1mwnnbslmao0uhg3z": "zj5v3rtroourx5kvsozplk9",
+    "yk1zakk39x80xpb70v4gm5s": "1es5gk1mwnnbslmao0uhg3z",
+    "w7f4bd4qpfzdha62d7pjn75": "1es5gk1mwnnbslmao0uhg3z",
+    "tfmhe5e71xfjajh6dar4sei": "zj5v3rtroourx5kvsozplk9",
+    "c41jx1mfpsvb3uikovusctk": "tfmhe5e71xfjajh6dar4sei",
+    "i6y65w9m41e586tibele629": "tfmhe5e71xfjajh6dar4sei",
+    "pcz62fciso6pf4lay4jzruz": "dvcc183t9lhn3smt1sj01hr",
+    "4t77cc9gvku1rbfkjprdaqy": "pcz62fciso6pf4lay4jzruz",
+    "0rd28f46hgm9exbxx6bipil": "pcz62fciso6pf4lay4jzruz",
+    "f9tktmdn21qtlu3hwpjnru6": "pcz62fciso6pf4lay4jzruz",
+    "5y1y1xq84a3qs64ezuf7ku3": "pcz62fciso6pf4lay4jzruz",
+    "rf4pf7g8c8c6rwkz5b9g575": "k6p67151vpxebleitlwbo6n",
+    "l0dsge81cv16gtkb79q3gal": "rf4pf7g8c8c6rwkz5b9g575",
+    "lyup97v6xepf1xhvh2s3zd6": "l0dsge81cv16gtkb79q3gal",
+    "z607rnqmdcymcibjmth4l53": "l0dsge81cv16gtkb79q3gal",
+    "79iv6ou5f8mf9b70yl3nx6t": "rf4pf7g8c8c6rwkz5b9g575",
+    "nllkisix4v0g2j9gby9v0z9": "rf4pf7g8c8c6rwkz5b9g575",
+    "kzl08p4rfwhfzecypbnk31o": "rf4pf7g8c8c6rwkz5b9g575",
+    "oyslee8kqkl348j60bxhkox": "rf4pf7g8c8c6rwkz5b9g575",
+    "wm1wnickmbbivwmbp7uhhwm": "rf4pf7g8c8c6rwkz5b9g575",
+    "yej97k9kemjlgpbmqko5b6g": "rf4pf7g8c8c6rwkz5b9g575",
+    "h17rtrfehmkbdziym0ewhbo": "k6p67151vpxebleitlwbo6n",
+    "p3gm777blatqh7vpbk7yl7f": "h17rtrfehmkbdziym0ewhbo",
+    "jf2jjp242n9lvasjkhu01tr": "h17rtrfehmkbdziym0ewhbo",
+    "0ib6tizbil3croj4u6nyc5r": "h17rtrfehmkbdziym0ewhbo",
+    "pw9zmg3r6wxpp28ri36qi15": "h17rtrfehmkbdziym0ewhbo",
+    "fetrzruicybe1evukrs5kc1": "h17rtrfehmkbdziym0ewhbo",
+    "5naesrl87qd08wtkvwbja90": "h17rtrfehmkbdziym0ewhbo",
+    "5j71za9um94xux4jkuv4z08": "h17rtrfehmkbdziym0ewhbo",
+    "9g58tudcp2ec0hgd2c4p51u": "h17rtrfehmkbdziym0ewhbo",
+    "bg1r8e94dx58i379mbw06zy": "h17rtrfehmkbdziym0ewhbo",
+    "5ehy78oq53dih7gt8pf9d1u": "h17rtrfehmkbdziym0ewhbo",
+    "rlxqz5kqept4i10zdjli7b3": "h17rtrfehmkbdziym0ewhbo",
+    "5nm358nhzynqso1mjkcxn8n": "h17rtrfehmkbdziym0ewhbo",
+    "djci2178hbgdbcc3qyhg5nm": "h17rtrfehmkbdziym0ewhbo",
+    "17mj3gz1duwkm32ohynwi26": "h17rtrfehmkbdziym0ewhbo",
+    "smo25071kryqm59p9sbrn05": "k6p67151vpxebleitlwbo6n",
+    "c99ofzra7sc2t7f2809vfl6": "smo25071kryqm59p9sbrn05",
+    "rxt32ipqr0sfpq4hgn9btft": "smo25071kryqm59p9sbrn05",
+    "658lrxorxutx9jkpz9wdtms": "smo25071kryqm59p9sbrn05",
+    "0t3gvam7vkqdvvrbq9hoysb": "smo25071kryqm59p9sbrn05",
+    "s71be1stp2w8czpzo00q1j0": "smo25071kryqm59p9sbrn05",
+    "iyh2k8aiio3wul6ozrg8xru": "smo25071kryqm59p9sbrn05",
+    "6lk51m6bcm5a8cw9vcfmfte": "smo25071kryqm59p9sbrn05",
+    "a7hlh23crkim9052x46fzx4": "smo25071kryqm59p9sbrn05",
+    "ujxko2cqvute5pm36pjgx4j": "smo25071kryqm59p9sbrn05",
+    "j8f4ovcx7xdk5myqxy4gh0e": "smo25071kryqm59p9sbrn05",
+    "cpco4qv43fyochpx4g5ev7x": "smo25071kryqm59p9sbrn05",
+    "06rwxfvirvxie8d44jmr6ze": "k6p67151vpxebleitlwbo6n",
+    "epzg81heqapv1aqo0p00mv6": "06rwxfvirvxie8d44jmr6ze",
+    "iljog4hedp124v2gciv49hd": "06rwxfvirvxie8d44jmr6ze",
+    "c97au9i2v0yu2oykbpt2fyw": "06rwxfvirvxie8d44jmr6ze",
+    "o48r0fyuyuvwrg2smf7efgu": "06rwxfvirvxie8d44jmr6ze",
+    "i1zqex62pq252etxtmcew23": "06rwxfvirvxie8d44jmr6ze",
+    "2uynrlrulkzxh1qnwpsh1dc": "06rwxfvirvxie8d44jmr6ze",
+    "qzv8arcb7chp3ng0m190obp": "06rwxfvirvxie8d44jmr6ze",
+    "roj8za85govp2tda1mkle04": "06rwxfvirvxie8d44jmr6ze",
+    "qqepse99u47bb4htaxjf36s": "06rwxfvirvxie8d44jmr6ze",
+    "okk3ipwdjbdz1nnah0omk11": "k6p67151vpxebleitlwbo6n",
+    "uzi25jawlw1i8hm3m44ccyz": "okk3ipwdjbdz1nnah0omk11",
+    "7jwn2p09u3vuev8i4oszg4x": "okk3ipwdjbdz1nnah0omk11",
+    "eslmxod6ea9s7el2vrkg5im": "okk3ipwdjbdz1nnah0omk11",
+    "unwdsyuczp4d66a8kuzv0r4": "okk3ipwdjbdz1nnah0omk11",
+    "okg3hbx1a0l1i31fkaueecs": "okk3ipwdjbdz1nnah0omk11",
+    "9p54btszp8l95djvyjauvix": "okk3ipwdjbdz1nnah0omk11",
+    "7dgdhnbcb8oz4tvq5ai9awx": "okk3ipwdjbdz1nnah0omk11",
+    "lh55zpesqyvfhcncq54uu92": "okk3ipwdjbdz1nnah0omk11",
+    "rd2t2hlbgel0ollz79444v9": "okk3ipwdjbdz1nnah0omk11",
+    "9njog3j87xrhymc7bofihoi": "okk3ipwdjbdz1nnah0omk11",
+    "zppgarnhfd47wrkt6n9th02": "okk3ipwdjbdz1nnah0omk11",
+    "k8qwh2019v7otcger0qxvho": "okk3ipwdjbdz1nnah0omk11",
+    "c6zqsiqldbebt430a9s5674": "okk3ipwdjbdz1nnah0omk11",
+    "zxdylcvljlcclmjanu21k1q": "okk3ipwdjbdz1nnah0omk11",
+    "7x4rv5n10174jo29z5fqso6": "okk3ipwdjbdz1nnah0omk11",
+    "y0lgmaxewbvyqo8pwd29lcg": "okk3ipwdjbdz1nnah0omk11",
+    "l53tj10v2o9bdedlbrcp3aq": "k6p67151vpxebleitlwbo6n",
+    "tkrbk0n721h4sm3in9farp3": "l53tj10v2o9bdedlbrcp3aq",
+    "hiyrf5agm1b80g2u56dzp8u": "l53tj10v2o9bdedlbrcp3aq",
+    "yflq7wdq46ipnj0cnaqt8q3": "hiyrf5agm1b80g2u56dzp8u",
+    "iaht1ayz0fxbfn7mx5nksa4": "hiyrf5agm1b80g2u56dzp8u",
+    "9yt9uoex98yttqnlgn1509o": "hiyrf5agm1b80g2u56dzp8u",
+    "0p9wqve45057y5vgk1azjxp": "hiyrf5agm1b80g2u56dzp8u",
+    "665b91dbukiuxnuhwm0lshm": "l53tj10v2o9bdedlbrcp3aq",
+    "5f3h3jfl8evxs2reqsteqrp": "665b91dbukiuxnuhwm0lshm",
+    "eykj053wbpvs9t2smoafv5r": "665b91dbukiuxnuhwm0lshm",
+    "mmfps6850ejgvowfgll6toe": "l53tj10v2o9bdedlbrcp3aq",
+    "ri1v3iy7mn3fmyj54o54m0b": "mmfps6850ejgvowfgll6toe",
+    "2mdkg6nwuxsnj32coe1ej7c": "mmfps6850ejgvowfgll6toe",
+    "hkebf5c01cmpi0r7rmu5c0d": "l53tj10v2o9bdedlbrcp3aq",
+    "al6gb71cch41vimi4peaib6": "l53tj10v2o9bdedlbrcp3aq",
+    "1748vgij8vs7jp8j7jy8ceh": "l53tj10v2o9bdedlbrcp3aq",
+    "2k3bq7js4cd0nfmpmzwr4w1": "k6p67151vpxebleitlwbo6n",
+    "ftah6ge9ih25429p49ig2hh": "2k3bq7js4cd0nfmpmzwr4w1",
+    "t4pkhvfwtunbkxayauadd1n": "2k3bq7js4cd0nfmpmzwr4w1",
+    "3zn2jpa197hullk0verlm9l": "2k3bq7js4cd0nfmpmzwr4w1",
+    "wb1dpz7av6fr4hht0phsls8": "2k3bq7js4cd0nfmpmzwr4w1",
+    "3wi9459b9vh05jdzt9r08oz": "2k3bq7js4cd0nfmpmzwr4w1",
+    "z1anzre9fist64my4se6slh": "2k3bq7js4cd0nfmpmzwr4w1",
+    "jt4pa4l737rr7eafxhvybla": "2k3bq7js4cd0nfmpmzwr4w1"
+  },
+  "notesLabelById": {
+    "k6p67151vpxebleitlwbo6n": "World Trade Network",
+    "dvcc183t9lhn3smt1sj01hr": "Decoding Complexity - Glattfelder",
+    "z5zud4p7rwge0azpdqgonwk": "Thoughts on Economic Complexity",
+    "oitc4o62ygmxw1typhns5vp": "Economic Complexity in Monopartite Networks",
+    "zj5v3rtroourx5kvsozplk9": "Ownership Networks",
+    "onyehjy0lt63qw4c231gnyt": "Integrated Ownership",
+    "cq54ts0k8yxwnxf4d8f9lgm": "Generalized Group Ownership",
+    "1es5gk1mwnnbslmao0uhg3z": "Self-Loop Problem",
+    "yk1zakk39x80xpb70v4gm5s": "Network Value and Integrated Value",
+    "w7f4bd4qpfzdha62d7pjn75": "Correction Operator",
+    "tfmhe5e71xfjajh6dar4sei": "Bowtie Problem",
+    "c41jx1mfpsvb3uikovusctk": "Flow in Ownership Networks",
+    "i6y65w9m41e586tibele629": "Algorithms for Bowtie Problem",
+    "pcz62fciso6pf4lay4jzruz": "Control in Networks",
+    "4t77cc9gvku1rbfkjprdaqy": "Centrality in Networks",
+    "0rd28f46hgm9exbxx6bipil": "Models of Control",
+    "f9tktmdn21qtlu3hwpjnru6": "Models of Indirect Control",
+    "5y1y1xq84a3qs64ezuf7ku3": "Distribution of Control",
+    "rf4pf7g8c8c6rwkz5b9g575": "Network Analysis and Topology",
+    "l0dsge81cv16gtkb79q3gal": "Topology of the World Trade Web",
+    "lyup97v6xepf1xhvh2s3zd6": "Economic Integration in East Asia and Latin America",
+    "z607rnqmdcymcibjmth4l53": "Fagiolo et al",
+    "79iv6ou5f8mf9b70yl3nx6t": "Weighted HITS",
+    "nllkisix4v0g2j9gby9v0z9": "Dominant Flows in the WTN",
+    "kzl08p4rfwhfzecypbnk31o": "Spanning Trees of the WTN",
+    "oyslee8kqkl348j60bxhkox": "Synchronization of the WTN",
+    "wm1wnickmbbivwmbp7uhhwm": "Trichotomous Measure of World-System Position in the WTN",
+    "yej97k9kemjlgpbmqko5b6g": "World Trade Network",
+    "h17rtrfehmkbdziym0ewhbo": "Clustering",
+    "p3gm777blatqh7vpbk7yl7f": "Analyzing Global Geopolitical Stability",
+    "jf2jjp242n9lvasjkhu01tr": "Evolution of Community Structure",
+    "0ib6tizbil3croj4u6nyc5r": "Graph Clustering With GNNs",
+    "pw9zmg3r6wxpp28ri36qi15": "Identifying the Community Structure of the WTN",
+    "fetrzruicybe1evukrs5kc1": "Modularity and Community Structure in Networks",
+    "5naesrl87qd08wtkvwbja90": "Multi-Attribute Community Detection in WTN",
+    "5j71za9um94xux4jkuv4z08": "Network of Networks Perspective on Global Trade",
+    "9g58tudcp2ec0hgd2c4p51u": "Rich Cores in Networks",
+    "bg1r8e94dx58i379mbw06zy": "Rich-Club Phenomenon",
+    "5ehy78oq53dih7gt8pf9d1u": "Structure and Formation of Top Networks",
+    "rlxqz5kqept4i10zdjli7b3": "The Rise of China",
+    "5nm358nhzynqso1mjkcxn8n": "Trade Blocs in an Era of Globalization",
+    "djci2178hbgdbcc3qyhg5nm": "Trade Networks of the BRI",
+    "17mj3gz1duwkm32ohynwi26": "Trading Blocs and the Americas",
+    "smo25071kryqm59p9sbrn05": "Crisis Propagation",
+    "c99ofzra7sc2t7f2809vfl6": "Bootstrap Percolation and Attack",
+    "rxt32ipqr0sfpq4hgn9btft": "COVID-19 Diffusion",
+    "658lrxorxutx9jkpz9wdtms": "COVID-19 and Shocks",
+    "0t3gvam7vkqdvvrbq9hoysb": "Financial Contagion in the WTN",
+    "s71be1stp2w8czpzo00q1j0": "Global Value-Added Trade and Risk Transmis",
+    "iyh2k8aiio3wul6ozrg8xru": "Multiplex Cascading Failure",
+    "6lk51m6bcm5a8cw9vcfmfte": "Robustness",
+    "a7hlh23crkim9052x46fzx4": "Spillover Effect",
+    "ujxko2cqvute5pm36pjgx4j": "Structure and Response in the WTN",
+    "j8f4ovcx7xdk5myqxy4gh0e": "Topology and Crisis Propagation",
+    "cpco4qv43fyochpx4g5ev7x": "Warning Signals for Crises",
+    "06rwxfvirvxie8d44jmr6ze": "Economic Growth",
+    "epzg81heqapv1aqo0p00mv6": "Consumer Demand and Cost Factors",
+    "iljog4hedp124v2gciv49hd": "GDP-Driven Structural Prediction",
+    "c97au9i2v0yu2oykbpt2fyw": "Gravity Rainbow",
+    "o48r0fyuyuvwrg2smf7efgu": "Heckscher-Ohlin",
+    "i1zqex62pq252etxtmcew23": "ITN and Financial Integration",
+    "2uynrlrulkzxh1qnwpsh1dc": "Networks in Growth",
+    "qzv8arcb7chp3ng0m190obp": "Openness and Growth",
+    "roj8za85govp2tda1mkle04": "Trade Structure and Economic Growth",
+    "qqepse99u47bb4htaxjf36s": "Trade and Volatility",
+    "okk3ipwdjbdz1nnah0omk11": "Miscellaneous + Case Studies",
+    "uzi25jawlw1i8hm3m44ccyz": "Spatio-Temporal Analysis of the WTN",
+    "7jwn2p09u3vuev8i4oszg4x": "Complexity of Food Trade Network",
+    "eslmxod6ea9s7el2vrkg5im": "Country Risks",
+    "unwdsyuczp4d66a8kuzv0r4": "Crude Oil Competition Networks",
+    "okg3hbx1a0l1i31fkaueecs": "Evolution of Oil Trade",
+    "9p54btszp8l95djvyjauvix": "Features of Oil Trade",
+    "7dgdhnbcb8oz4tvq5ai9awx": "Global Energy Flow",
+    "lh55zpesqyvfhcncq54uu92": "Human Migration and Trade",
+    "rd2t2hlbgel0ollz79444v9": "Investment Networks",
+    "9njog3j87xrhymc7bofihoi": "Meat Trade Network",
+    "zppgarnhfd47wrkt6n9th02": "Petroleum Along the BRI",
+    "k8qwh2019v7otcger0qxvho": "Plastic and China Plastic Ban",
+    "c6zqsiqldbebt430a9s5674": "Robustness of Oil Trade",
+    "zxdylcvljlcclmjanu21k1q": "Stability of Oil Network",
+    "7x4rv5n10174jo29z5fqso6": "Trade and Australia",
+    "y0lgmaxewbvyqo8pwd29lcg": "Triadic Analysis of Agricultural Trade Networks",
+    "l53tj10v2o9bdedlbrcp3aq": "Generative Models and Evolution",
+    "tkrbk0n721h4sm3in9farp3": "Analytic Process Framework",
+    "hiyrf5agm1b80g2u56dzp8u": "ERGM + Stochastic",
+    "yflq7wdq46ipnj0cnaqt8q3": "ERGM Analysis of the WTN",
+    "iaht1ayz0fxbfn7mx5nksa4": "Humanistic Factors Along the BRI",
+    "9yt9uoex98yttqnlgn1509o": "Stochastic Generative Model",
+    "0p9wqve45057y5vgk1azjxp": "Stochastic Trade Networks",
+    "665b91dbukiuxnuhwm0lshm": "Fitness",
+    "5f3h3jfl8evxs2reqsteqrp": "Fitness-Dependent Topological Properties",
+    "eykj053wbpvs9t2smoafv5r": "Microscopic Study of Node Fitness",
+    "mmfps6850ejgvowfgll6toe": "Gravity",
+    "ri1v3iy7mn3fmyj54o54m0b": "Modeling the ITN - A Gravity Approach",
+    "2mdkg6nwuxsnj32coe1ej7c": "Topological Analysis of Trade Distance",
+    "hkebf5c01cmpi0r7rmu5c0d": "Measuring Globalization",
+    "al6gb71cch41vimi4peaib6": "Null Models of the WTN",
+    "1748vgij8vs7jp8j7jy8ceh": "Rise or Fall",
+    "2k3bq7js4cd0nfmpmzwr4w1": "Multiproduct Trade Networks",
+    "ftah6ge9ih25429p49ig2hh": "Country Space",
+    "t4pkhvfwtunbkxayauadd1n": "Multinetwork of International Trade",
+    "3zn2jpa197hullk0verlm9l": "Prediction in Complex Systems",
+    "wb1dpz7av6fr4hht0phsls8": "Product Diversification",
+    "3wi9459b9vh05jdzt9r08oz": "Strategies for Selecting Trading Partners",
+    "z1anzre9fist64my4se6slh": "The Multiproduct Google Matrix of World Trade",
+    "jt4pa4l737rr7eafxhvybla": "The Product Space Conditions the Development of Nations"
+  }
+}
